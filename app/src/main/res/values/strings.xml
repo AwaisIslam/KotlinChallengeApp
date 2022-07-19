@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">KotlinChallengeApp</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="user_id">User Id:</string>
+    <string name="use_id_hint">Use ID</string>
+    <string name="description">Description</string>
 </resources>
